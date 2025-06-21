@@ -1,5 +1,6 @@
 # Gemini Flash - Multimodal API Server
 
+HEAD
 Proyek ini adalah sebuah API server yang dibangun dengan Node.js dan Express.js untuk memanfaatkan kemampuan multimodal dari model **Google Gemini Flash**. Server ini menyediakan beberapa endpoint untuk memproses berbagai jenis input seperti teks, gambar, dokumen, dan audio.
 
 ## Deskripsi
@@ -138,3 +139,5 @@ Berikut adalah detail dari setiap endpoint yang tersedia.
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi ISC.
+
+Yuk mampir ke portofolio saya (https://wiradp.github.io/)

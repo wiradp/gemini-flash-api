@@ -138,6 +138,9 @@ Berikut adalah detail dari setiap endpoint yang tersedia.
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah Lisensi ISC.
+📄 License
+MIT License – Feel free to use and modify with credit.
 
-Yuk mampir ke portofolio saya (https://wiradp.github.io/)
+👤 Author
+Built with ❤️ by Wira Dhana Putra
+🧾 [Portfolio](https://wiradp.github.io) | 💼 [LinkedIn](https://www.linkedin.com/in/wira-dhana-putra/)
